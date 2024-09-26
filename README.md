@@ -77,6 +77,12 @@
         .button:hover {
             background-color: #ffb74d;
         }
+
+        iframe {
+            width: 80%;
+            height: 450px;
+            border: none;
+        }
     </style>
 </head>
 <body>
@@ -141,6 +147,12 @@
         <h2>Resume</h2>
         <p>Here's a link to my resumé:</p>
         <a href="resume.pdf" class="button">Download Resume</a>
+    </section>
+
+    <section id="project-videos">
+        <h2>Project Videos</h2>
+        <p>Here are all my projects of this year. Once a new project is made, it will be published here before presenting it in class:</p>
+        <iframe src="https://www.youtube.com/embed/--o-T-6aDz8" allowfullscreen></iframe>
     </section>
 
     <section id="contact">
