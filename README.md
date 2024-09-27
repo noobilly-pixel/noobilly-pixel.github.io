@@ -8,7 +8,7 @@
         body {
             margin: 0;
             font-family: Arial, sans-serif;
-            background-color: #0b3d0b; /* Dark green background */
+            background-color: #2832C2; /* Lapis blue background */
             color: #fff; /* White text */
         }
 
@@ -153,6 +153,17 @@
         <h2>Project Videos</h2>
         <p>Here are all my projects of this year. Once a new project is made, it will be published here before presenting it in class:</p>
         <iframe src="https://www.youtube.com/embed/--o-T-6aDz8" allowfullscreen></iframe>
+    </section>
+
+    <section id="project-summary" class="colorful-box">
+        <h2>Project Summary</h2>
+        <p>BOOK 1 in THE ALLIES: Earthworm Sally has lost her parents, and she's trying to win a gameshow hosted by Kacy with contestants: Coca Cola can, Noobilly, Bacon Hair, Shrek, and Earthworm Sally herself. She hasn't won the gameshow, so she got mad and challenged Kacy to a fight. Thanks to Kacy's hacking aids, she has won. Earthworm Sally was astonished by her strength and decided to ask Kacy to help her with the fight happening in Jeaut-Paulia, to fight the big storm. The other contestants have agreed, including Kacy. What will happen next? Find out in BOOK 2.</p>
+    </section>
+
+    <section id="channel-promo" class="colorful-box">
+        <h2>Check Out My Friend's YouTube Channel!</h2>
+        <p>If you're into fun and creative content, make sure to visit my friend's awesome YouTube channel, Bloxyahya!</p>
+        <a href="https://www.youtube.com/@bloxyahya" target="_blank" class="button">Visit Bloxyahya on YouTube</a>
     </section>
 
     <section id="contact">
