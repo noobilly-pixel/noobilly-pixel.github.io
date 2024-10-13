@@ -152,11 +152,15 @@
     <section id="project-videos">
         <h2>Project Videos</h2>
         <p>Here are all my projects of this year. Once a new project is made, it will be published here before presenting it in class:</p>
+        <iframe src="https://www.youtube.com/embed/lDPTmpx1q3c" allowfullscreen></iframe>
+        <br><br>
         <iframe src="https://www.youtube.com/embed/--o-T-6aDz8" allowfullscreen></iframe>
     </section>
 
     <section id="project-summary" class="colorful-box">
         <h2>Project Summary</h2>
+        <p>KIRBY AND ADEN PAULE VERSUS THE WATER ROAMERS: To fully understand the lore of THE ALLIES, I've added this project that was made a year ago. Pollution is a very big problem, so Kirby went to Jeaut-Paulia to fight the king of the water roamers, which are the people who pollute. To ask for directions, Kirby went to Carol Paule. Then Kirby went to Maester Paule to get a book to fully understand pollution. For the battle to be easier, Kirby went to Farmer Paule to get some food. So then Kirby meets Aden Paule near the exit of the "Lost Sacred Land Of Water Roamers". After arriving, Aden Paule puts down his backpack and both of them get ready for battle. The battle was harsh, but they've won it. So then with their arrival with a yacht, they meet the historian Samuel Paule who has written the history of every battle that has happened in Jeaut-Paulia. And so then does the tides change and the world is in peace!</p>
+        <br>
         <p>BOOK 1 in THE ALLIES: Earthworm Sally has lost her parents, and she's trying to win a gameshow hosted by Kacy with contestants: Coca Cola can, Noobilly, Bacon Hair, Shrek, and Earthworm Sally herself. She hasn't won the gameshow, so she got mad and challenged Kacy to a fight. Thanks to Kacy's hacking aids, she has won. Earthworm Sally was astonished by her strength and decided to ask Kacy to help her with the fight happening in Jeaut-Paulia, to fight the big storm. The other contestants have agreed, including Kacy. What will happen next? Find out in BOOK 2.</p>
     </section>
 
