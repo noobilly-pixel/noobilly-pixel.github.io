@@ -1,29 +1,16 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Noobilly - Creative Innovator</title>
-    <style>
-        body {
-            margin: 0;
-            font-family: Arial, sans-serif;
-            background-color: #2832C2; /* Lapis blue background */
-            color: #fff; /* White text */
-        }
+<style>
+    header {
+        background-color: #154f15; /* Slightly lighter green */
+        padding: 20px;
+        text-align: center;
+        font-size: 2em;
+        color: #ffcc00; /* Bright yellow for contrast */
+    }
 
-        header {
-            background-color: #154f15; /* Slightly lighter green */
-            padding: 20px;
-            text-align: center;
-            font-size: 2em;
-            color: #ffcc00; /* Bright yellow for contrast */
-        }
-
-        nav {
-            margin: 20px 0;
-            text-align: center;
-        }
+    nav {
+        margin: 20px 0;
+        text-align: center;
+    }
 
         nav a {
             margin: 0 15px;
@@ -32,161 +19,166 @@
             font-size: 1.2em;
         }
 
-        section {
-            padding: 40px;
-            text-align: center;
-        }
+    section {
+        padding: 40px;
+        text-align: center;
+    }
 
-        h2 {
-            color: #ffcc00; /* Bright yellow headings */
-            margin-bottom: 20px;
-        }
+    h2 {
+        color: #ffcc00; /* Bright yellow headings */
+        margin-bottom: 20px;
+    }
 
-        p {
-            font-size: 1.1em;
-            margin-bottom: 30px;
-        }
+    p {
+        font-size: 1.1em;
+        margin-bottom: 30px;
+    }
 
-        .colorful-box {
-            background-color: #ff6f61; /* Coral */
-            color: #fff;
-            padding: 20px;
-            margin-bottom: 20px;
-            border-radius: 10px;
-        }
+    .colorful-box {
+        background-color: #ff6f61; /* Coral */
+        color: #fff;
+        padding: 20px;
+        margin-bottom: 20px;
+        border-radius: 10px;
+    }
 
-        footer {
-            background-color: #154f15;
-            padding: 10px;
-            text-align: center;
-            position: fixed;
-            width: 100%;
-            bottom: 0;
-        }
+    footer {
+        background-color: #154f15;
+        padding: 10px;
+        text-align: center;
+        position: fixed;
+        width: 100%;
+        bottom: 0;
+    }
 
-        .button {
-            display: inline-block;
-            padding: 10px 20px;
-            margin-top: 10px;
-            background-color: #ffcc00;
-            color: #0b3d0b;
-            border-radius: 5px;
-            text-decoration: none;
-        }
+    .button {
+        display: inline-block;
+        padding: 10px 20px;
+        margin-top: 10px;
+        background-color: #ffcc00;
+        color: #0b3d0b;
+        border-radius: 5px;
+        text-decoration: none;
+    }
 
         .button:hover {
             background-color: #ffb74d;
         }
 
-        iframe {
-            width: 80%;
-            height: 450px;
-            border: none;
-        }
-    </style>
-</head>
-<body>
+    iframe {
+        width: 80%;
+        height: 450px;
+        border: none;
+    }
 
-    <header>
-        Noobilly - Creative Innovator
-    </header>
+    .highlight-text {
+        color: #ffcc00; /* Bright yellow */
+        font-size: 1.5em;
+        font-weight: bold;
+    }
+</style>
 
-    <nav>
-        <a href="#about">About Me</a>
-        <a href="#skills">Skills</a>
-        <a href="#projects">Projects</a>
-        <a href="#ideas">Project Ideas</a>
-        <a href="#resume">Resume</a>
-        <a href="#contact">Contact</a>
-    </nav>
+<header>
+    Noobilly - Amazing Creative Student, also known as Fluis230
+</header>
 
-    <section id="about">
-        <h2>About Me</h2>
-        <p>Hello, I'm Noobilly, or Mahdi in real life. I'm just a student at school who loves making projects. This website is about my 'projects'! My key skills include not only being very smart but also being great at brainstorming, so I can generate project ideas quickly.</p>
-        <p>Some of the projects I've completed include:</p>
-        <ul>
-            <li>A long adventure-style game about pollution that is both informative and entertaining!</li>
-            <li>A cool project with an informative section and a fun quiz at the end.</li>
-            <li>A project full of memes that I shared with everyone on September 25th, 2024.</li>
-        </ul>
-        <p>My project ideas are few for now, but here are a couple of them:</p>
-        <ul>
-            <li>A project about music—something very important to me!</li>
-            <li>A project about geography, focusing on countries and their histories.</li>
-        </ul>
-        <p>I don't have too many project ideas yet, but as soon as I do, this website will be updated to reflect them.</p>
-    </section>
+<nav>
+    <a href="#about">About Me</a>
+    <a href="#skills">Skills</a>
+    <a href="#projects">Projects</a>
+    <a href="#ideas">Project Ideas</a>
+    <a href="#resume">Resume</a>
+    <a href="#contact">Contact</a>
+</nav>
 
-    <section id="skills" class="colorful-box">
-        <h2>Skills</h2>
-        <p>My key skills are that I'm not only very smart but I'm good at brainstorming, allowing me to make a project idea very quickly.</p>
-    </section>
+<section id="about">
+    <h2>About Me</h2>
+    <p>Hello, I'm Noobilly, or Mahdi in real life. I'm just a student at school who loves making projects. This website is about my 'projects'! My key skills include not only being very smart but also being great at brainstorming, so I can generate project ideas quickly.</p>
+    <p>Some of the projects I've completed include:</p>
+    <ul>
+        <li>A long adventure-style game about pollution that is both informative and entertaining!</li>
+        <li>A cool project with an informative section and a fun quiz at the end.</li>
+        <li>A project full of memes that I shared with everyone on September 25th, 2024.</li>
+    </ul>
+    <p>My project ideas are few for now, but here are a couple of them:</p>
+    <ul>
+        <li>A project about music—something very important to me!</li>
+        <li>A project about geography, focusing on countries and their histories.</li>
+    </ul>
+    <p>I don't have too many project ideas yet, but as soon as I do, this website will be updated to reflect them.</p>
+</section>
 
-    <section id="projects">
-        <h2>Projects</h2>
-        <p>Some of the projects I've already completed in previous years include:</p>
-        <ul>
-            <li>A long project portrayed as an adventure game about pollution, which is very entertaining.</li>
-            <li>A cool, informative project including a fun quiz at the end.</li>
-            <li>The project I showed you all on the 25th of September 2024.</li>
-            <li>Many more projects, including one filled with memes!</li>
-        </ul>
-    </section>
+<section id="skills" class="colorful-box">
+    <h2>Skills</h2>
+    <p>My key skills are that I'm not only very smart but I'm good at brainstorming, allowing me to make a project idea very quickly.</p>
+</section>
 
-    <section id="ideas" class="colorful-box">
-        <h2>Project Ideas</h2>
-        <p>My project ideas are small, but here are a few:</p>
-        <ul>
-            <li>A project about music—something I love and find important!</li>
-            <li>A project about geography, mainly focusing on countries and the history of those countries.</li>
-        </ul>
-        <p>I sadly don't have enough project ideas, but as soon as I get more, this website will be updated and they will be added.</p>
-    </section>
+<section id="projects">
+    <h2>Projects</h2>
+    <p>Some of the projects I've already completed in previous years include:</p>
+    <ul>
+        <li>A long project portrayed as an adventure game about pollution, which is very entertaining.</li>
+        <li>A cool, informative project including a fun quiz at the end.</li>
+        <li>The project I showed you all on the 25th of September 2024.</li>
+        <li>Many more projects, including one filled with memes!</li>
+    </ul>
+</section>
 
-    <section id="resume">
-        <h2>Resume</h2>
-        <p>Here's a link to my resumé:</p>
-        <a href="resume.pdf" class="button">Download Resume</a>
-    </section>
+<section id="ideas" class="colorful-box">
+    <h2>Project Ideas</h2>
+    <p>My project ideas are small, but here are a few:</p>
+    <ul>
+        <li>A project about music—something I love and find important!</li>
+        <li>A project about geography, mainly focusing on countries and the history of those countries.</li>
+    </ul>
+    <p>I sadly don't have enough project ideas, but as soon as I get more, this website will be updated and they will be added.</p>
+</section>
 
-    <section id="project-videos">
-        <h2>Project Videos</h2>
-        <p>Here are all my projects of this year. Once a new project is made, it will be published here before presenting it in class:</p>
-        <iframe src="https://www.youtube.com/embed/lDPTmpx1q3c" allowfullscreen></iframe>
-        <br><br>
-        <iframe src="https://www.youtube.com/embed/--o-T-6aDz8" allowfullscreen></iframe>
-    </section>
+<section id="resume">
+    <h2>Resume</h2>
+    <p>Here's a link to my resumé:</p>
+    <a href="resume.pdf" class="button">Download Resume</a>
+</section>
 
-    <section id="project-summary" class="colorful-box">
-        <h2>Project Summary</h2>
-        <p>KIRBY AND ADEN PAULE VERSUS THE WATER ROAMERS: To fully understand the lore of THE ALLIES, I've added this project that was made a year ago. Pollution is a very big problem, so Kirby went to Jeaut-Paulia to fight the king of the water roamers, which are the people who pollute. To ask for directions, Kirby went to Carol Paule. Then Kirby went to Maester Paule to get a book to fully understand pollution. For the battle to be easier, Kirby went to Farmer Paule to get some food. So then Kirby meets Aden Paule near the exit of the "Lost Sacred Land Of Water Roamers". After arriving, Aden Paule puts down his backpack and both of them get ready for battle. The battle was harsh, but they've won it. So then with their arrival with a yacht, they meet the historian Samuel Paule who has written the history of every battle that has happened in Jeaut-Paulia. And so then does the tides change and the world is in peace!</p>
-        <br>
-        <p>BOOK 1 in THE ALLIES: Earthworm Sally has lost her parents, and she's trying to win a gameshow hosted by Kacy with contestants: Coca Cola can, Noobilly, Bacon Hair, Shrek, and Earthworm Sally herself. She hasn't won the gameshow, so she got mad and challenged Kacy to a fight. Thanks to Kacy's hacking aids, she has won. Earthworm Sally was astonished by her strength and decided to ask Kacy to help her with the fight happening in Jeaut-Paulia, to fight the big storm. The other contestants have agreed, including Kacy. What will happen next? Find out in BOOK 2.</p>
-    </section>
+<section id="project-videos">
+    <h2>Project Videos</h2>
+    <p class="highlight-text">MY BEST PROJECT OF 2024, FULL MOVIE!</p>
+    <iframe src="https://www.youtube.com/embed/Ef-MYFyhCgo" allowfullscreen></iframe>
+    <br><br>
+    <iframe src="https://www.youtube.com/embed/lDPTmpx1q3c" allowfullscreen></iframe>
+    <br><br>
+    <iframe src="https://www.youtube.com/embed/--o-T-6aDz8" allowfullscreen></iframe>
+</section>
 
-    <section id="channel-promo" class="colorful-box">
-        <h2>Check Out My Friend's YouTube Channel!</h2>
-        <p>If you're into fun and creative content, make sure to visit my friend's awesome YouTube channel, Bloxyahya!</p>
-        <a href="https://www.youtube.com/@bloxyahya" target="_blank" class="button">Visit Bloxyahya on YouTube</a>
-    </section>
+<section id="project-summary" class="colorful-box">
+    <h2>Project Summary</h2>
+    <p>KIRBY AND ADEN PAULE VERSUS THE WATER ROAMERS: To fully understand the lore of THE ALLIES, I've added this project that was made a year ago. Pollution is a very big problem, so Kirby went to Jeaut-Paulia to fight the king of the water roamers, which are the people who pollute. To ask for directions, Kirby went to Carol Paule. Then Kirby went to Maester Paule to get a book to fully understand pollution. For the battle to be easier, Kirby went to Farmer Paule to get some food. So then Kirby meets Aden Paule near the exit of the "Lost Sacred Land Of Water Roamers". After arriving, Aden Paule puts down his backpack and both of them get ready for battle. The battle was harsh, but they've won it. So then with their arrival with a yacht, they meet the historian Samuel Paule who has written the history of every battle that has happened in Jeaut-Paulia. And so then does the tides change and the world is in peace!</p>
+    <br>
+    <p>BOOK 1 in THE ALLIES: Earthworm Sally has lost her parents, and she's trying to win a gameshow hosted by Kacy with contestants: Coca Cola can, Noobilly, Bacon Hair, Shrek, and Earthworm Sally herself. She hasn't won the gameshow, so she got mad and challenged Kacy to a fight. Thanks to Kacy's hacking aids, she has won. Earthworm Sally was astonished by her strength and decided to ask Kacy to help her with the fight happening in Jeaut-Paulia, to fight the big storm. The other contestants have agreed, including Kacy. What will happen next? Find out in BOOK 2.</p>
+    <br>
+    <p>BOOK 2 in THE ALLIES: MUSIC</p>
+</section>
 
-    <section id="contact">
-        <h2>Contact</h2>
-        <p>You can reach me via Discord or email:</p>
-        <ul>
-            <li>Discord: Mahdifiyourlocalneighbour2</li>
-            <li>Email: mahdielfidali@hotmail.com</li>
-        </ul>
-    </section>
+<section id="channel-promo" class="colorful-box">
+    <h2>Check Out My Friend's YouTube Channel!</h2>
+    <p>If you're into fun and creative content, make sure to visit my friend's awesome YouTube channel, Bloxyahya!</p>
+    <a href="https://www.youtube.com/@bloxyahya" target="_blank" class="button">Visit Bloxyahya on YouTube</a>
+</section>
 
-    <section id="ending">
-        <h2>Ending</h2>
-        <p>And that's it! Use this information, and if you have any ideas for projects, just contact me and I will respond within a day or two. Sorry in advance if I have to deny your idea!</p>
-    </section>
+<section id="contact">
+    <h2>Contact</h2>
+    <p>You can reach me via Discord or email:</p>
+    <ul>
+        <li>Discord: Mahdifiyourlocalneighbour2</li>
+        <li>Email: mahdielfidali@hotmail.com</li>
+    </ul>
+</section>
 
-    <footer>
-        © 2024 Noobilly - All Rights Reserved
-    </footer>
+<section id="ending">
+    <h2>Ending</h2>
+    <p>And that's it! Use this information, and if you have any ideas for projects, just contact me and I will respond within a day or two. Sorry in advance if I have to deny your idea!</p>
+</section>
 
-</body>
-</html>
+<footer>
+    © 2024 Noobilly - All Rights Reserved
+</footer>
