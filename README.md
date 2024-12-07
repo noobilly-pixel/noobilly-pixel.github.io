@@ -77,6 +77,7 @@
   <a href="#resume">Resume</a>
   <a href="#updates">Updates</a>
   <a href="#special-projects">Special Projects</a>
+  <a href="#special-videos">Special Project Videos</a>
   <a href="#videos">Project Videos</a>
   <a href="#done-projects">Done Projects/Projects for Later</a>
 </nav>
@@ -133,12 +134,17 @@
   <p>Enjoy this project that shows the journey of Noobilly, Kacy, and Bacon Hair finding the 55th number and a rowing of a boat. Noobilly wanted to sacrifice a Kayatron [Kayatron: an endangered species, which the last one alive is Kacy—or is it only Kacy??]. To gain hacks and keep Kacy alive, they needed to find a rowing of a boat, which the 55th number knows the answer to. But to find the 55th number, they had to pass 3 trials: the trial of unity, the trial of strength, and the trial of sacrifice.</p>
 </section>
 
-<section id="videos">
-  <h2>Project Videos</h2>
+<section id="special-videos">
+  <h2>Special Project Videos</h2>
+  <h3>The Special Sally - Full Halloween Edition</h3>
+  <iframe src="https://www.youtube.com/embed/Ef-MYFyhCgo" allowfullscreen></iframe>
+  
   <h3>Row row, row your boat! Official Episode</h3>
   <iframe src="https://www.youtube.com/watch?v=Vs4f2XefoCw" allowfullscreen></iframe>
-  <h3>My Best Project of 2024, Full Movie!</h3>
-  <iframe src="https://www.youtube.com/embed/Ef-MYFyhCgo" allowfullscreen></iframe>
+</section>
+
+<section id="videos">
+  <h2>Project Videos</h2>
   <iframe src="https://www.youtube.com/embed/lDPTmpx1q3c" allowfullscreen></iframe>
   <iframe src="https://www.youtube.com/embed/--o-T-6aDz8" allowfullscreen></iframe>
 </section>
