@@ -137,14 +137,15 @@
 <section id="special-videos">
   <h2>Special Project Videos</h2>
   <h3>The Special Sally - Full Halloween Edition</h3>
-  <iframe src="https://www.youtube.com/embed/Ef-MYFyhCgo" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/Htnmg_I9wWM" allowfullscreen></iframe>
   
   <h3>Row row, row your boat! Official Episode</h3>
-  <iframe src="https://www.youtube.com/watch?v=Vs4f2XefoCw" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/Vs4f2XefoCw" allowfullscreen></iframe>
 </section>
 
 <section id="videos">
   <h2>Project Videos</h2>
+  <iframe src="https://www.youtube.com/embed/Ef-MYFyhCgo" allowfullscreen></iframe>
   <iframe src="https://www.youtube.com/embed/lDPTmpx1q3c" allowfullscreen></iframe>
   <iframe src="https://www.youtube.com/embed/--o-T-6aDz8" allowfullscreen></iframe>
 </section>
