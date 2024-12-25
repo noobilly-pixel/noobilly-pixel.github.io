@@ -123,7 +123,9 @@
   <p>UPDATE 2: Addition of 2 new projects, one new project summary, and Yahya's YouTube channel</p>
   <p>UPDATE 2.0: Addition of "Updates" section, "Special Projects Video" section, and downloaded projects summary</p>
   <p>UPDATE 2.1: Addition of "Row row, row your boat!" the project and SallyNo game project</p>
+  <p><strong>UPDATE 2.2: Addition of Trivia Event</strong></p>
 </section>
+
 
 <section id="special-projects">
   <h2>Special Projects</h2>
@@ -171,6 +173,21 @@ To fully understand the lore of THE ALLIES, I've added this project that was mad
     <li><strong>November:</strong> SallyNo (SallyNo was finished on December 6th)</li>
     <li><strong>December:</strong> Handmade Arts & Trivia (will be presented, inshallah)</li>
   </ul>
+</section>
+
+<section id="event-trivia">
+  <h2>EVENT - TRIVIA</h2>
+  <p><em>Well hello! Welcome! So in here you will find all the information regarding the trivia that I've told you about. It will **most likely** be on January 15th. But it could also be the 17th. I will inform you on January 3rd when it will really be. To sum up, it will be a trivia-jeopard that will be based on points. I will ask you a series of questions that you will choose the points for, let me explain. There will be 11 categories: Handmade arts, music, sports, the allies, games, geography, history, general knowledge, listening/ reading and SALLYNO. You already know 6 of them, and 5 of them are some you already know about them. I will ask you to choose a point form: 100,200,300,400 or 500. From easiest to hardest (meaning 100 is easy, 200 medium as well as 300, 400 hard and 500 extreme). If you manage to answer a 100 points question you win the value, but if you fail to do so, you lose it. If you have any questions about this, feel free to ask me in my contacts or face to face at school. Yes, there will be a prize for the winner. You must create teams of 5 people (minimum 3 people).  You must create them, if you want to participate, before the trivia event. </em></p>
+
+  <h3>I. HANDMADE ARTS:</h3>
+  <p><em>[My introduction]</em></p>
+  <p>Handmade arts involve creating objects using manual skills and creativity, often without the use of large machinery. This includes a variety of forms such as textile arts (weaving, knitting, crocheting, embroidery, and quilting), ceramics and pottery (used to make mugs and other items), woodworking (lathe is a common tool), jewelry making (beading and wire wrapping), and paper crafts (origami and papercutting). Handmade arts allow for personal expression and the creation of unique items.</p>
+  <p><em>[My conclusion]</em></p>
+
+  <h3>II. MUSIC</h3>
+  <p><em>[My introduction]</em></p>
+  <p>Music is the art of arranging sounds in time to create harmony, melody, and rhythm. It can be experienced in different formats such as studio albums, live albums, and extended plays (EPs). Tracks within albums can include singles, covers, and remixes. Notable albums of 2024 include <em>Short N’ Sweet</em> by Sabrina Carpenter and <em>Hit Me Hard and Soft</em> by Billie Eilish. Music can be listened to through streaming platforms, vinyl records, CDs, and live performances. Michael Jackson's <em>Thriller</em> remains one of the biggest albums of all time.</p>
+  <p><em>[My conclusion]</em></p>
 </section>
 
 <footer>
