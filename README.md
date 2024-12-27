@@ -201,7 +201,12 @@ Bonus Track: Extra songs included on special editions of albums, often as a rewa
 If you want to know about Artists biggest albums and singles you can find it in the video in Trivia videos section.
 But some Artists's albums are: Micheal Jackson's Thriller which is the biggest album of all time ; Taylor Swift's 1989 ;  Katy Perry's Teenage Dream ; Bruno Mars's Unorthdox Jukebox ; Drake's For All The dogs ....
 
-Albums & tracks can be used both digitaly and hardware type. Digitaly with apps like: Spotify, Apple Music, Iheart Radio... Hardware type
+Albums & tracks can be used both digitaly and hardware type. Digitaly with apps like: Spotify, Apple Music, Iheart Radio... Hardware type like: Vinyls ; Cds; Cassettes ; Radios....
+An artist can record multiple albums, more than 1.
+
+Now for the defintion of music and it's types, there are located in the picture. ![image](https://github.com/user-attachments/assets/6231a3e3-cdc2-4cd2-8fec-cd3981f69c05)
+
+Some of the biggest albums of all times are: Micheal Jackson's Thriller ; Taylor Swift's 1989 ;  Katy Perry's Prism ; Bruno Mars's Doo woops and Hooligans ; Whitney Houston with Various Artists's The bodyguard ; The Eagles's Hotel California ....
 ![image](https://github.com/user-attachments/assets/c9eb7599-da27-4a3d-afc7-6414cbcda1d5)
  
 
