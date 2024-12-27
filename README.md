@@ -204,15 +204,10 @@ But some Artists's albums are: Micheal Jackson's Thriller which is the biggest a
 Albums & tracks can be used both digitaly and hardware type. Digitaly with apps like: Spotify, Apple Music, Iheart Radio... Hardware type like: Vinyls ; Cds; Cassettes ; Radios....
 An artist can record multiple albums, more than 1.
 
-Now for the defintion of music and it's types, there are located in the picture. ![image](https://github.com/user-attachments/assets/6231a3e3-cdc2-4cd2-8fec-cd3981f69c05)
+Now for the defintion of music and it's types, there are located in the picture. 
 
 Some of the biggest albums of all times are: Micheal Jackson's Thriller ; Taylor Swift's 1989 ;  Katy Perry's Prism ; Bruno Mars's Doo woops and Hooligans ; Whitney Houston with Various Artists's The bodyguard ; The Eagles's Hotel California ....
-![image](https://github.com/user-attachments/assets/c9eb7599-da27-4a3d-afc7-6414cbcda1d5)
- 
 
-![image](https://github.com/user-attachments/assets/2e870b44-e993-4893-8891-f9704cf44746)
-
-![image](https://github.com/user-attachments/assets/49931c4e-25e4-495c-ad31-573d04c954de)
 </p>
   <p><em>If you have any questions feel free to ask me</em></p>
 </section>
