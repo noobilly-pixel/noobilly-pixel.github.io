@@ -191,7 +191,8 @@ Studio Album: A complete set of new, original songs recorded in a studio.
 Live Album: Recordings of performances in front of an audience, capturing raw energy.
 Compilation Album: Collections of songs from various sources, like hits or rare tracks.
 EP (Extended Play): A short album with a few songs, longer than a single but shorter than a full album.
-Soundtrack: Music specifically created for movies, TV shows, or games, often conveying mood and story.) (Biggest albums of 2024: in the picture)![Alt Text](images/image.png)
+Soundtrack: Music specifically created for movies, TV shows, or games, often conveying mood and story.) (Biggest albums of 2024: in the picture)<img src="image.png" alt="Description of image" width="500">
+
 
 . There are many artists with very popular tracks and albums. I did not say what tracks are? OH! Tracks are really the songs in an album and there are 2 types for tracks: Normal Tracks and Singles. Singles also have types unlike Normal Tracks: Types of Tracks:
 Lead Single: The main song released to promote an album.
@@ -206,7 +207,8 @@ But some Artists's albums are: Micheal Jackson's Thriller which is the biggest a
 Albums & tracks can be used both digitaly and hardware type. Digitaly with apps like: Spotify, Apple Music, Iheart Radio... Hardware type like: Vinyls ; Cds; Cassettes ; Radios....
 An artist can record multiple albums, more than 1.
 
-Now for the defintion of music and it's types, there are located in the picture. ![Alt Text](images/EQD.png)
+Now for the defintion of music and it's types, there are located in the picture. <img src="EQD.png" alt="Description of image" width="500">
+
 
 
 Some of the biggest albums of all times are: Micheal Jackson's Thriller ; Taylor Swift's 1989 ;  Katy Perry's Prism ; Bruno Mars's Doo woops and Hooligans ; Whitney Houston with Various Artists's The bodyguard ; The Eagles's Hotel California ....
