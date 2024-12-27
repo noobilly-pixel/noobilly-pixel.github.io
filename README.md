@@ -182,12 +182,34 @@ To fully understand the lore of THE ALLIES, I've added this project that was mad
   <h3>I. HANDMADE ARTS:</h3>
   <p><em>[My introduction]</em></p>
   <p>Handmade arts involve creating objects using manual skills and creativity, often without the use of large machinery. This includes a variety of forms such as textile arts (weaving, knitting, crocheting, embroidery, and quilting), ceramics and pottery (used to make mugs and other items), woodworking (lathe is a common tool), jewelry making (beading and wire wrapping), and paper crafts (origami and papercutting). Handmade arts allow for personal expression and the creation of unique items.</p>
-  <p><em>[My conclusion]</em></p>
+  <p><em>If you have any questions feel free to ask me<</em></p>
 
   <h3>II. MUSIC</h3>
   <p><em>[My introduction]</em></p>
-  <p>Music is the art of arranging sounds in time to create harmony, melody, and rhythm. It can be experienced in different formats such as studio albums, live albums, and extended plays (EPs). Tracks within albums can include singles, covers, and remixes. Notable albums of 2024 include <em>Short N’ Sweet</em> by Sabrina Carpenter and <em>Hit Me Hard and Soft</em> by Billie Eilish. Music can be listened to through streaming platforms, vinyl records, CDs, and live performances. Michael Jackson's <em>Thriller</em> remains one of the biggest albums of all time.</p>
-  <p><em>[My conclusion]</em></p>
+  <p>Music is fascinating too isn't it? From albums: (definition of albums: Albums are collections of songs that an artist or band creates to explore a theme, story, or mood. Each song (or "track") on the album can have its own vibe, but together, they form a complete experience. Think of it as a book with each track as a chapter. Some tracks might be upbeat and fun, while others are more emotional or reflective, creating a journey for the listener from start to finish.) (types of albums: Types of Albums:
+Studio Album: A complete set of new, original songs recorded in a studio.
+Live Album: Recordings of performances in front of an audience, capturing raw energy.
+Compilation Album: Collections of songs from various sources, like hits or rare tracks.
+EP (Extended Play): A short album with a few songs, longer than a single but shorter than a full album.
+Soundtrack: Music specifically created for movies, TV shows, or games, often conveying mood and story.) (Biggest albums of 2024: in the picture). There are many artists with very popular tracks and albums. I did not say what tracks are? OH! Tracks are really the songs in an album and there are 2 types for tracks: Normal Tracks and Singles. Singles also have types unlike Normal Tracks: Types of Tracks:
+Lead Single: The main song released to promote an album.
+Title Track: A song that shares the album’s name and often reflects its theme.
+Interlude: A short, sometimes instrumental piece that bridges parts of an album.
+Hidden Track: An unlisted song, usually added at the end as a surprise.
+Bonus Track: Extra songs included on special editions of albums, often as a reward for fans.
+
+If you want to know about Artists biggest albums and singles you can find it in the video in Trivia videos section.
+But some Artists's albums are: Micheal Jackson's Thriller which is the biggest album of all time ; Taylor Swift's 1989 ;  Katy Perry's Teenage Dream ; Bruno Mars's Unorthdox Jukebox ; Drake's For All The dogs ....
+
+Albums & tracks can be used both digitaly and hardware type. Digitaly with apps like: Spotify, Apple Music, Iheart Radio... Hardware type
+![image](https://github.com/user-attachments/assets/c9eb7599-da27-4a3d-afc7-6414cbcda1d5)
+ 
+
+![image](https://github.com/user-attachments/assets/2e870b44-e993-4893-8891-f9704cf44746)
+
+![image](https://github.com/user-attachments/assets/49931c4e-25e4-495c-ad31-573d04c954de)
+</p>
+  <p><em>If you have any questions feel free to ask me</em></p>
 </section>
 
 <footer>
