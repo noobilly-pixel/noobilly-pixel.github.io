@@ -215,6 +215,11 @@ Some of the biggest albums of all times are: Micheal Jackson's Thriller ; Taylor
 
 </p>
   <p><em>If you have any questions feel free to ask me</em></p>
+
+    <h3>III. THE ALLIES:</h3>
+  <p><em>All about the story of the allies. You can watch the episodes, or just read the resume of the episodes!</em></p>
+  <p>So,for the allies, I will ask you questions on the following episodes: KIRBY AND ADEN PAULE VERSUS THE WATER ROAMERS. Book 1 & Book 2 of the allies. And the three special projects: The special Sally, Row row, row your boat! and A very much sally christmas.]   For more information, read the introduction.</p>
+  <p><em>If you have any questions feel free to ask me<</em></p>
 </section>
 
 <footer>
