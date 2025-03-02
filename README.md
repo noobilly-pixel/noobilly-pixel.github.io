@@ -1,8 +1,4 @@
-<style>
-  html {
-    scroll-behavior: smooth;
-  }
-
+<style> 
   header {
     background-color: #154f15; /* Slightly lighter green */
     padding: 20px;
@@ -10,50 +6,28 @@
     font-size: 2em;
     color: #ffcc00; /* Bright yellow for contrast */
   }
-
-  .reveal {
-    opacity: 0;
-    transform: translateY(30px);
-    transition: opacity 0.6s ease-out, transform 0.6s ease-out;
-  }
-
-  .reveal.visible {
-    opacity: 1;
-    transform: translateY(0);
-  }
-
-  .colorful-box:hover {
-    transform: scale(1.05);
-    transition: transform 0.3s ease-in-out;
-  }
-
   nav {
     margin: 20px 0;
     text-align: center;
   }
-  
   nav a {
     margin: 0 15px;
     color: #ff6f61; /* Coral color */
     text-decoration: none;
     font-size: 1.2em;
   }
-  
   section {
     padding: 40px;
     text-align: center;
   }
-  
   h2 {
     color: #ffcc00; /* Bright yellow headings */
     margin-bottom: 20px;
   }
-  
   p {
     font-size: 1.1em;
     margin-bottom: 30px;
   }
-  
   .colorful-box {
     background-color: #ff6f61; /* Coral */
     color: #fff;
@@ -61,7 +35,6 @@
     margin-bottom: 20px;
     border-radius: 10px;
   }
-  
   footer {
     background-color: #154f15;
     padding: 10px;
@@ -70,7 +43,6 @@
     width: 100%;
     bottom: 0;
   }
-  
   .button {
     display: inline-block;
     padding: 10px 20px;
@@ -80,27 +52,20 @@
     border-radius: 5px;
     text-decoration: none;
   }
-  
   .button:hover {
     background-color: #ffb74d;
   }
-  
   iframe {
     width: 80%;
     height: 450px;
     border: none;
   }
-  
   .highlight-text {
     color: #ffcc00; /* Bright yellow */
     font-size: 1.5em;
     font-weight: bold;
   }
 </style>
-
-<script>
-  document.addEventListener("DOMContentLo
-
 
 <header>Noobilly - Amazing Creative Student, also known as Fluis230</header>
 
