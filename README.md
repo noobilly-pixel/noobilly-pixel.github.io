@@ -1,4 +1,8 @@
-<style> 
+<style>
+  html {
+    scroll-behavior: smooth;
+  }
+
   header {
     background-color: #154f15; /* Slightly lighter green */
     padding: 20px;
@@ -6,28 +10,50 @@
     font-size: 2em;
     color: #ffcc00; /* Bright yellow for contrast */
   }
+
+  .reveal {
+    opacity: 0;
+    transform: translateY(30px);
+    transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+  }
+
+  .reveal.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  .colorful-box:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease-in-out;
+  }
+
   nav {
     margin: 20px 0;
     text-align: center;
   }
+  
   nav a {
     margin: 0 15px;
     color: #ff6f61; /* Coral color */
     text-decoration: none;
     font-size: 1.2em;
   }
+  
   section {
     padding: 40px;
     text-align: center;
   }
+  
   h2 {
     color: #ffcc00; /* Bright yellow headings */
     margin-bottom: 20px;
   }
+  
   p {
     font-size: 1.1em;
     margin-bottom: 30px;
   }
+  
   .colorful-box {
     background-color: #ff6f61; /* Coral */
     color: #fff;
@@ -35,6 +61,7 @@
     margin-bottom: 20px;
     border-radius: 10px;
   }
+  
   footer {
     background-color: #154f15;
     padding: 10px;
@@ -43,6 +70,7 @@
     width: 100%;
     bottom: 0;
   }
+  
   .button {
     display: inline-block;
     padding: 10px 20px;
@@ -52,20 +80,27 @@
     border-radius: 5px;
     text-decoration: none;
   }
+  
   .button:hover {
     background-color: #ffb74d;
   }
+  
   iframe {
     width: 80%;
     height: 450px;
     border: none;
   }
+  
   .highlight-text {
     color: #ffcc00; /* Bright yellow */
     font-size: 1.5em;
     font-weight: bold;
   }
 </style>
+
+<script>
+  document.addEventListener("DOMContentLo
+
 
 <header>Noobilly - Amazing Creative Student, also known as Fluis230</header>
 
@@ -79,6 +114,7 @@
   <a href="#special-projects">Special Projects</a>
   <a href="#special-videos">Special Project Videos</a>
   <a href="#videos">Project Videos</a>
+  <a href="#The-Brookhaven-Purge">The Brookhaven Purge</a>
   <a href="#done-projects">Done Projects/Projects for Later</a>
 </nav>
 
@@ -124,6 +160,7 @@
   <p>UPDATE 2.0: Addition of "Updates" section, "Special Projects Video" section, and downloaded projects summary</p>
   <p>UPDATE 2.1: Addition of "Row row, row your boat!" the project and SallyNo game project</p>
   <p><strong>UPDATE 2.2: Addition of Trivia Event</strong></p>
+  <p>UPDATE 2.3: Addition of "SALLY THE IIND-ORIGINS" the project and project summary. Addition of "The Brookhaven Purge" section</p></p>
 </section>
 
 
@@ -150,6 +187,7 @@
   <iframe src="https://www.youtube.com/embed/Ef-MYFyhCgo" allowfullscreen></iframe>
   <iframe src="https://www.youtube.com/embed/lDPTmpx1q3c" allowfullscreen></iframe>
   <iframe src="https://www.youtube.com/embed/--o-T-6aDz8" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/AL_rP6lCXnw" allowfullscreen></iframe>
 </section>
 
 Project Summary
@@ -163,15 +201,70 @@ To fully understand the lore of THE ALLIES, I've added this project that was mad
 <p>Now our heroes will go fight the storm. You know, how about letting Aden Paule tell you about this. Here is Aden Paule's text, oh and by the way he is addressing this to Earthworm Sally: When you came to Jeaut-Paulia, the adventure began. Earthworm Sally and Coca Cola Can took to the skies in a plane, while Noobilly and his grandpa sailed in on a boat. Kacy and Bacon Hair flew, thanks to their trusty hacks. Once they landed, they discovered Maester Paule’s books, and there it was—the secret: music, the storm’s great weakness. The battle against the storm was fierce. But in a twist of fate, everyone except Sally was pulled into a black hole, thrown back to Jeaut-Paulia. Kacy and Bacon Hair, though, hacked their way back, only to be banned instantly. Sally, now armed with a saber, faced the storm alone, until the spirit of Aden Paule rose to her side, lending strength. Kacy, ever the hacker, unbanned herself just in time to come to Sally's rescue. In that moment, Sally awakened her ultimate form. Together, they fought with all their might, and in a single, decisive strike—boom—the storm was no more. Sally, you are powerful and unstoppable.</p>
 <p><em>THE END –Samuel Paule</em></p>
 
+<p><strong>EPISODE 6 in THE ALLIES: SALLY THE IIND-ORIGINS:</strong> The Forgotten Echoes of Eshmir
+A journey into the unknown. A land that defies time. A legend that refuses to be forgotten.
+
+Chapter 1: A Story of the Past
+Kacy asks Sally for a tale, and she tells the story of her grandfather, Sally the IIND. He once embarked on an expedition with Saaida Al-Hmounia, a brilliant explorer obsessed with the ever-shifting plateau of Eshmir. Legends spoke of a monolith within Eshmir that distorted time and space—an anomaly no map could ever capture. With journal in hand, Sally the IIND recorded every strange occurrence as they ventured deeper into the unknown.
+
+Chapter 2: A World That Changes
+As they traversed Eshmir’s unstable terrain, reality itself seemed to bend:
+Rocks hovered in the air before settling.
+Water flowed in reverse.
+Landmarks moved when unobserved.
+Saaida attempted to rationalize it—unstable fault lines, magnetic anomalies—but the deeper they went, the more their senses betrayed them. Their maps became useless. Their footprints disappeared. Then, at last, they found it—the monolith. A massive, humming structure that distorted everything around it.
+
+Chapter 3: Science vs. the Impossible
+The closer they got, the more the world unraveled. Compasses spun out of control. Voices echoed incorrectly. Saaida placed markers to track their movements—yet, when they turned back, the markers were gone. The truth dawned on them: Eshmir wasn’t shifting. Eshmir was alive.
+Saaida touched the monolith, and reality itself cracked apart. The world shimmered, distorted—and they fell.
+
+Chapter 4: The Monolith’s Curse
+When they awoke, everything looked the same. But something was wrong. The sky was a different shade. Their footprints from before were missing. Had they traveled through time? Had the monolith transported them?
+Then, Saaida changed. Her movements slowed, her voice delayed. She whispered, "I don’t think this is our world anymore."
+And then, in the distance, footsteps. They were not alone.
+
+Chapter 5: The Eternal Trap
+Sally the IIND realized the truth: the monolith had pulled them into an altered version of reality. Eshmir was not just a place—it was a sentient trap. And Saaida… she was becoming part of it. He ran, reaching for the monolith one last time—
+Then, everything went black.
+When he awoke, she was gone.
+His final journal entry read: "If you find this, do not trust your eyes. Eshmir is never what it seems."
+
+Chapter 6: The Cycle Repeats
+Years later, Sally and the modern-day Saaida followed his grandfather’s path. They found the monolith. They touched it.
+And they woke up in a world that looked the same but felt wrong. Had they escaped? Or had Eshmir simply tricked them into believing they had?
+As they walked away, a tree in the distance shifted.
+Then the sun flickered.
+The illusion remained.
+
+Post-Credit Twist: The Final Glitch
+Descending the plateau, Sally noticed something terrifying—
+A set of footprints.
+Not theirs.
+Circling endlessly.
+Saaida gasped. Buried beneath the dirt was a journal—old, battered, barely legible. On the cover, in shaky handwriting:
+Sally the IIND.
+If he had left it behind… that meant one thing:
+He never made it out.
+BLACK SCREEN.
+THE END…?</p>
+
+<section id="The Brookhaven Purge">
+  <h2>The Brookhaven Purge</h2>
+  <p>The brookhaven purge is a 7 10 minutes or so episodes series made by me and my friends.. Starting from the 13th of March 2025 episode 1 and episode 2 will drop. And then, each friday, each week, 2 new episodes will drop. The series will be airing during the whole month of ramadan. To make you more into the series: a synoposis, which is a brief sumary, will be in this section each 2 days before the episode. Wednesdays and Thursdays. I hope you enjoy the series! Only avaible in: noobilly-pixel.github.io and GAAIMM.github.io 
+Remark! GAAIMM.github.io website is still in process and unfinished. The website will work promptly on the 12th March. Thank your for your waiting and understanding..</p>
+</section>
 
 <section id="done-projects">
   <h2>Done Projects/Projects for Later</h2>
   <p>Here are the projects that will be presented in class for 2024:</p>
   <ul>
+    
     <li><strong>September:</strong> Sports and Games Project</li>
     <li><strong>October:</strong> Music (the storm's ally is music; finished in November)</li>
     <li><strong>November:</strong> SallyNo (SallyNo was finished on December 6th)</li>
-    <li><strong>December:</strong> Handmade Arts & Trivia (will be presented, inshallah)</li>
+    <li><strong>December:</strong> Handmade Arts & Trivia (presented)</li>
+    <li><strong>February:</strong> Geography & Science(presented)</li>
+    <li><strong>March:</strong>The Brookhaven Purge(check section for info)</li>
   </ul>
 </section>
 
